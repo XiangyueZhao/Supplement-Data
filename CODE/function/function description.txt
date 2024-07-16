@@ -1,0 +1,2 @@
+The power_screen and rating_screen functions are used to select files with a certain value of stimulus intensity or rating written in the EEG struct events, delete other trials with different intensity/rating, and save the selected files to a specified path.
+mat_generate is used to extract a three-dimensional array of [subject, electrode, time] for erp drawing. Double quotation marks are required when entering the electrode name.
